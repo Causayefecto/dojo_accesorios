@@ -1,0 +1,17 @@
+{
+"companyName": "CausaYEfecto",
+"productName": "Accesorios",
+"productVersion": "0.1",
+"dataUrl": "dojo_accesorios.data.unityweb",
+"wasmCodeUrl": "dojo_accesorios.wasm.code.unityweb",
+"wasmFrameworkUrl": "dojo_accesorios.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "dojo_accesorios.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
